@@ -33,3 +33,16 @@ python src/main.py --rootdir $ROOT_DIR --api_key $API_KEY --task generate
 ```
 python src/main.py --rootdir $ROOT_DIR --api_key $API_KEY --task curate
 ```
+
+## Citation
+Please cite NarrAD as:
+```
+@inproceedings{park2025narrad,
+  title={NarrAD: Automatic Generation of Audio Descriptions for Movies with Rich Narrative Context},
+  author={Park, Jaehyeong and Ye, Juncheol and Lee, Seungkook and Ka, Hyun W and Han, Dongsu},
+  booktitle={2025 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
+  pages={409--419},
+  year={2025},
+  organization={IEEE}
+}
+```
