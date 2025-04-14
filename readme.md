@@ -1,6 +1,14 @@
 # NarrAD (WACV 2025 Oral)
 This is an official Github repository for WACV'25 paper. **NarrAD: Automatic Generation of Audio Descriptions for Movies with Rich Narrative Context**.   
-You can check out NarrAD's results on the MAD evaluation set here: [https://drive.google.com/drive/folders/1PIjL6qpZt4D2nxQwwMD7iZ9xmlfjRiuh?usp=drive_link]
+
+![Design](./images/new_design.jpg)
+
+## Results
+Here are the qualitative results of NarrAD.
+![Qualitative_results](./images/qualitative_result.jpg)
+
+You can check out several demo videos here: [https://bit.ly/4aSwOTr].   
+You can check out full outputs on the MAD evaluation set here: [https://drive.google.com/drive/folders/1PIjL6qpZt4D2nxQwwMD7iZ9xmlfjRiuh?usp=drive_link].   
 
 
 ## Data Preparation
