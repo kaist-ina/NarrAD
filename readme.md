@@ -1,5 +1,6 @@
 # NarrAD (WACV 2025 Oral)
 This is an official Github repository for WACV'25 paper. **NarrAD: Automatic Generation of Audio Descriptions for Movies with Rich Narrative Context**.   
+[https://ieeexplore.ieee.org/abstract/document/10944028]
 
 ![Design](./images/new_design.jpg)
 
