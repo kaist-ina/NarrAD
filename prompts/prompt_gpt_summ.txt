@@ -1,0 +1,8 @@
+I will give the sentence and its semantic units.
+You have to summarize the given sentence by reconstituting parts of the units.
+Among them, choose only NUM_UNITS semantic units to reconstitute for summarizing the sentence.
+Just answer a list of unit numbers, where delimiter is *.
+Do not choose more than NUM_UNITS units.
+
+Sentence: SENTENCE
+Units: UNITS

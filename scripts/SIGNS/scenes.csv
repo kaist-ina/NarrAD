@@ -1,0 +1,83 @@
+text,time,inout,scene,location
+inside of  window morning,day,inside,0,Building
+inside of  bedroom morning,day,inside,1,Room
+inside of  hall landing morning,day,inside,2,Hallway
+inside of  bathroom morning,day,inside,3,Bathroom
+inside of  children's bedroom morning,day,inside,4,Bedroom
+inside of  garage bedroom morning,day,inside,5,"Garage, Bedroom"
+outside of  backyard morning,day,outside,6,Garden
+outside of  crops morning,day,outside,7,Farm
+outside of  backyard lunchtime,unknown,outside,8,Garden
+outside of  backyard jungle gym lunchtime,unknown,outside,9,Playground
+outside of  crops lunchtime,unknown,outside,10,Farm
+outside of  corn crops lunchtime,unknown,outside,11,Farm
+outside of  backyard lunchtime,unknown,outside,12,Garden
+inside of  bedroom late evening,unknown,inside,13,Room
+outside of  house night,twilight,outside,14,Home
+inside of  bedroom night,twilight,inside,15,Room
+inside of  children's bedroom night,twilight,inside,16,Bedroom
+inside of  family room night,twilight,inside,17,Living room
+outside of  front door night,twilight,outside,18,Entrance
+outside of  merrill's side of house night,twilight,outside,19,House
+outside of  graham's side of house night,twilight,outside,20,House
+outside of  merrill's side of house night,twilight,outside,21,House
+outside of  side of house night,twilight,outside,22,House
+outside of  porch day,day,outside,23,Outdoor Area
+inside of  family room day,day,inside,24,Living Room
+outside of  hess driveway day,day,outside,25,Driveway
+outside of  station wagon afternoon,unknown,outside,26,Vehicle
+outside of  main street afternoon,unknown,outside,27,Street
+inside of  nathan's bookstore afternoon,unknown,inside,28,Bookstore
+inside of  pharmacy afternoon,unknown,inside,29,Pharmacy
+inside of  army recruiting office afternoon,unknown,inside,30,Military Facility
+inside of  pharmacy afternoon,unknown,inside,31,Pharmacy
+inside of  nathan's bookstore afternoon,unknown,inside,32,Bookstore
+outside of  station wagon afternoon,unknown,outside,33,Vehicle
+outside of  hess home afternoon,unknown,outside,34,Residential Building
+inside of  station wagon afternoon,unknown,inside,35,Car
+outside of  backyard evening,unknown,outside,36,Garden
+outside of  barn evening,unknown,outside,37,Farm
+inside of  kitchen evening,unknown,inside,38,Room
+inside of  family room evening,unknown,inside,39,Living room
+inside of  family room midnight,twilight,inside,40,Living Room
+inside of  family room day,day,inside,41,Living Room
+inside of  master bedroom day,day,inside,42,Bedroom
+inside of  children's bedroom day,day,inside,43,Bedroom
+inside of  front hall day,day,inside,44,Hallway
+inside of  children's bedroom day,day,inside,45,Bedroom
+outside of  reddy house day,day,outside,46,House
+outside of  reddy driveway day,day,outside,47,Driveway
+inside of  closet day,day,inside,48,Room
+inside of  kitchen day,day,inside,49,Room
+outside of  station wagon day,day,outside,50,Vehicle
+inside of  hess family room day,day,inside,51,Living Room
+outside of  hess house afternoon,unknown,outside,52,House
+inside of  closet late afternoon,unknown,inside,53,Room
+inside of  hallway late afternoon,unknown,inside,54,Hallway
+inside of  closet late afternoon,unknown,inside,55,Storage Space
+inside of  family room late afternoon,unknown,inside,56,Living Room
+inside of  upstairs landing evening,unknown,inside,57,Upstairs Area
+inside of  kitchen evening,unknown,inside,58,Kitchen
+inside of  dinning room evening,unknown,inside,59,Dining Room
+inside of  upstairs hall evening,unknown,inside,60,Hallway
+inside of  graham's bedroom evening,unknown,inside,61,Bedroom
+inside of  upstairs hall evening,unknown,inside,62,Hallway
+inside of  front hall evening,unknown,inside,63,Hallway
+inside of  upstairs hall evening,unknown,inside,64,Hallway
+inside of  front hall evening,unknown,inside,65,Entrance Hall
+inside of  kitchen evening,unknown,inside,66,Room
+inside of  basement evening,unknown,inside,67,Indoor space
+inside of  basement morning,day,inside,68,Indoor space
+inside of  basement stairwell morning,day,inside,69,Basement
+inside of  kitchen morning,day,inside,70,Room
+inside of  family room morning,day,inside,71,Living Room
+inside of  closet morning,day,inside,72,Room
+inside of  family room morning,day,inside,73,Living room
+outside of  street night,twilight,outside,74,Road
+outside of  street night,twilight,outside,75,Street
+inside of  family room morning,day,inside,76,Living room
+inside of  kitchen morning,day,inside,77,Kitchen
+inside of  family room morning,day,inside,78,Living Room
+inside of  family room morning,day,inside,79,Living Room
+outside of  backyard morning,day,outside,80,Outdoor Area
+inside of  window morning,day,inside,81,Window

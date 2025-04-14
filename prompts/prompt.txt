@@ -1,0 +1,7 @@
+You will be provided with a movie script delimited by triple quotes and several video frames.
+Your task is to generate audio description of the video using the given movie script in up to MAX_WORD words.
+Audio description is a short narration that explain the video to visually impaired individuals.
+It should contain name of characters and narrative context of the situation provided from the movie script.
+If the script does not contain the information needed to describe the video then simply describe it.
+You should describe the whole video in one sentence, rather than describing each video frame separately.
+Here are some examples of various audio descriptions of other movies.

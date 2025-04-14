@@ -1,0 +1,133 @@
+text,time,inout,scene,location
+outside of toulon port day,day,outside,0,Port
+outside of toulon dock day,day,outside,1,Dock
+outside of road out of toulon dawn,day,outside,2,Road
+outside of country road day,day,outside,3,Road
+outside of mountain road end of day,day,outside,4,Mountain road
+outside of digne dusk,unknown,outside,5,City
+"inside of mairie, digne dusk",unknown,inside,6,City Hall
+outside of digne dusk,unknown,outside,7,City
+"inside of country inn, digne dusk",unknown,inside,8,Hotel
+outside of digne night,twilight,outside,9,City
+"outside of prison, digne night",twilight,outside,10,"Prison, City"
+outside of digne night,twilight,outside,11,City
+outside of digne night,twilight,outside,12,City
+"outside of church yard, digne night",twilight,outside,13,"Church, Yard"
+inside of bishop's house night,twilight,inside,14,Church
+"inside of bedroom, bishop's house night",twilight,inside,15,"Bedroom, House"
+outside of churchyard night,twilight,outside,16,Church
+inside of bishop's house day,day,inside,17,Church
+"inside of church, digne day",day,inside,18,Church
+"outside of church, digne day",day,outside,19,Church
+outside of road to montreuil day,day,outside,20,Road
+outside of gates to montreuil day,day,outside,21,Gates
+outside of harbour montreuil day,day,outside,22,Port
+"outside of factory yard, montreuil day",day,outside,23,Factory yard
+"inside of factory, montreuil men's section day",day,inside,24,Factory
+"inside of factory, montreuil women's section day",day,inside,25,Factory
+inside of factory office day,day,inside,26,Factory
+"outside of track leading to factory, montreuil day",day,outside,27,Factory Road
+"outside of harbour, montreuil night",twilight,outside,28,"Harbor, City"
+"outside of red light district, montreuil night",twilight,outside,29,"District, City"
+outside of red light district montreuil end of day,day,outside,30,Red Light District
+outside of red light district montreuil night,twilight,outside,31,Red Light District
+"inside of rotting ship's hulk, montreuil night",twilight,inside,32,"Shipwreck, Montreuil"
+"inside of rotting ship's hulk, montreuil night",twilight,inside,33,"Abandoned Ship, City"
+"outside of red light district, montreuil night",twilight,outside,34,"Red Light District, City"
+"outside of police station, montreuil day",day,outside,35,Police Station
+"inside of factory, montreuil night",twilight,inside,36,Factory
+"inside of valjean's house, montreuil night",twilight,inside,37,House in Montreuil
+"inside of valjean's house, montreuil night",twilight,inside,38,House in Montreuil
+outside of country road night.,twilight,outside,39,Road
+intoutside of courtroom night,twilight,both,40,Courthouse
+inside of courtroom night,twilight,inside,41,Court
+"inside of hospital, montreuil night",twilight,inside,42,Hospital
+"inside of hospital, montreuil night",twilight,inside,43,Hospital
+"outside of harbour, montreuil night",twilight,outside,44,"Harbor, City"
+outside of montfermeil dusk,unknown,outside,45,City
+"inside of inn, montfermeil end of day",day,inside,46,"Inn, City"
+"outside of inn, montfermeil dusk",unknown,outside,47,"Inn, Montfermeil"
+"inside of inn, montfermeil dusk",unknown,inside,48,"Hotel, Montfermeil"
+"inside of kitchen, inn, montfermeil flashback day",day,inside,49,"Room, Hotel, City"
+"inside of inn, montfermeil dusk",unknown,inside,50,"Hotel, Montfermeil"
+"outside of inn, montfermeil dusk",unknown,outside,51,"Hotel, Montfermeil"
+"inside of inn, montfermeil dusk",unknown,inside,52,"Hotel, Montfermeil"
+"inside of kitchen, inn, montfermeil flashback day",day,inside,53,"Room, Hotel, City"
+"inside of inn, montfermeil dusk",unknown,inside,54,"Hotel, Montfermeil"
+inside of bridal suite flashback night,twilight,inside,55,Hotel Room
+"inside of inn, montfermeil night",twilight,inside,56,"Hotel, Montfermeil"
+"outside of inn, montfermeil night",twilight,outside,57,"Hotel, Montfermeil"
+"inside of inn, montfermeil night",twilight,inside,58,"Hotel, Montfermeil"
+outside of wood by the inn night,twilight,outside,59,Forest near the hotel
+"inside of inn, montfermeil night",twilight,inside,60,"Hotel, Montfermeil"
+"outside of inn, montfermeil night",twilight,outside,61,"Hotel, Montfermeil"
+"inside of inn, montfermeil night",twilight,inside,62,"Hotel, Montfermeil"
+outside of outskirts of paris night,twilight,outside,63,Suburbs
+outside of paris broken wall night,twilight,outside,64,Historical Site
+outside of paris slum street night,twilight,outside,65,Slum area
+outside of paris river seine night,twilight,outside,66,City
+outside of maze of old streets night,twilight,outside,67,Old Town
+outside of dead end night,twilight,outside,68,Street
+inside of convent cloister night,twilight,inside,69,Monastery
+"outside of place de la bastille, paris day",day,outside,70,"Public Square, Paris"
+outside of paris boulevard day,day,outside,71,Street
+"outside of lamarque's house, paris day",day,outside,72,House in Paris
+inside of gorbeau tenement,unknown,inside,73,Apartment Building
+outside of rue de la chanvrerie end of day,day,outside,74,Street
+outside of paris police hq night,twilight,outside,75,Police Station
+outside of rue de la chanvrerie night,twilight,outside,76,Street
+inside of caf� musain night,twilight,inside,77,Cafe
+"inside of valjean's house, rue plumet night",twilight,inside,78,House
+outside of rue plumet night,twilight,outside,79,Street
+"inside of rue plumet, paris night",twilight,inside,80,"Street, Paris"
+outside of rue plumet night,twilight,outside,81,Street
+"inside of valjean's house rue plumet, paris night",twilight,inside,82,house
+"outside of garden, rue plumet night",twilight,outside,83,"Garden, Street"
+outside of rue plumetbridgerue de la chanvrerie night,twilight,outside,84,Street/Bridge/Street
+inside of gorbeau tenement night,twilight,inside,85,Apartment Building
+outside of rue plumet night,twilight,outside,86,Street
+inside of carriage night.,twilight,inside,87,Vehicle
+outside of rue plumet night,twilight,outside,88,Street
+inside of carriage night,twilight,inside,89,Vehicle
+extinside of rue plumetcarriage night,twilight,both,90,Street/Carriage
+inside of caf� musain ground & 1st flooroutside of rue de la chanvrerie night,twilight,both,91,Cafe
+inside of paris police hq night,twilight,inside,92,Police Station
+inside of carriage night,twilight,inside,93,Vehicle
+inside of caf� musain ground & 1st floor night,twilight,inside,94,Cafe
+intoutside of rue de l'homme armeerue de la chanvreriecaf� musain ground & 1st floorpolice station night,twilight,both,95,Street/Street/Cafe/Building/Police Station
+outside of paris streets day,day,outside,96,City streets
+outside of rue de la chanvrerieinside of cafe musain day,day,both,97,Street/Cafe
+outside of barricade dusk,unknown,outside,98,Barrier
+outside of barricade night,twilight,outside,99,Street
+outside of barricade night,twilight,outside,100,Roadblock
+"inside of inn, rue de l'homme armee, paris night",twilight,inside,101,"Hotel, Street, City"
+"inside of valjean's room, lodging house night",twilight,inside,102,"Bedroom, Boarding House"
+outside of paris streets night,twilight,outside,103,Streets
+outside of barricade night,twilight,outside,104,Barrier
+outside of barricade inside of cafe musain night,twilight,both,105,Cafe
+outside of paris dawn,day,outside,106,City
+inside of cafe musain dawn,day,inside,107,Cafe
+outside of barricade dawn,day,outside,108,roadblock
+inside of caf� musain day,day,inside,109,Cafe
+outside of barricade day,day,outside,110,Barrier
+inside of caf� musain day,day,inside,111,Cafe
+outside of street outside caf� musain day,day,outside,112,Street outside cafe
+inside of caf� musain day,day,inside,113,Cafe
+outside of barricade day,day,outside,114,Barrier
+outside of back alley day,day,outside,115,Alley
+inside of paris sewers day,day,inside,116,Sewer System
+"outside of river embankment, paris night",twilight,outside,117,River Bank
+outside of street outside caf� musain day,day,outside,118,Street outside Cafe
+"inside of marius's family house, paris day",day,inside,119,"Residential House, Paris"
+inside of caf� musain day,day,inside,120,Cafe
+"inside of marius's family house, paris day",day,inside,121,House in Paris
+"inside of parlour, marius's family house day",day,inside,122,"Living Room, House"
+"outside of marius's family house, paris day",day,outside,123,"House, Paris"
+"inside of marius's family house, paris day",day,inside,124,House in Paris
+"outside of marius's family house, paris day",day,outside,125,"Residential House, Paris"
+"inside of marius's family house, paris day",day,inside,126,House in Paris
+"outside of convent, paris night",twilight,outside,127,"Church, Paris"
+"inside of convent chapel, paris night",twilight,inside,128,"Church, Paris"
+outside of convent cloisters night,twilight,outside,129,Monastery
+inside of convent chapel night,twilight,inside,130,Church
+outside of place de la bastille day,day,outside,131,Square

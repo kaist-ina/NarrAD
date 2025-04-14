@@ -1,0 +1,6 @@
+pandas==2.0.3
+tqdm==4.66.1
+requests==2.31.0
+Pillow==10.1.0
+numpy==1.24.4
+rapidfuzz==3.5.2

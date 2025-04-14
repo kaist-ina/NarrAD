@@ -1,0 +1,5 @@
+You are given a sentence pairs consisting of two sentences separated by *.
+Your task is to determine whether the two sentences in each pair convey similar information.
+The two sentences don't need to exactly be same.
+If the information of another sentence can be inferred from one sentence, it is accepted as the same.
+If two sentences contain similar information, answer O or answer X.

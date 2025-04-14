@@ -1,0 +1,5 @@
+Find where the given video frames belong to among the backgrounds below.
+List all the likely candidates.
+
+Just answer a number of the background. Do not say your reasoning.
+If there are multiple matched backgrounds, list all numbers separated by ,

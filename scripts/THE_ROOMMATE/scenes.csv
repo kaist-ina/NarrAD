@@ -1,0 +1,197 @@
+text,time,inout,scene,location
+inside of college dorm room day,day,inside,0,Dormitory
+inside of dorm hallway day,day,inside,1,Dormitory
+outside of sidewalk day,day,outside,2,Street
+inside of dorm lobby day,day,inside,3,Dormitory
+inside of dorm hallway day,day,inside,4,Dormitory
+inside of dorm doorway day,day,inside,5,Dormitory Entrance
+outside of campus quad day,day,outside,6,University campus
+outside of campus coffee shop day,day,outside,7,Cafe
+outside of college dorm night,twilight,outside,8,Dormitory
+inside of sara's room night,twilight,inside,9,Bedroom
+outside of psi u. fraternity house night,twilight,outside,10,Fraternity House
+inside of psi u. frat house night,twilight,inside,11,Fraternity House
+inside of frat house dance floor later,unknown,inside,12,University Campus
+inside of frat house bar,unknown,inside,13,Fraternity House
+inside of frat house dance floor: some time later,unknown,inside,14,University Campus
+inside of staircase,unknown,inside,15,Stairs
+inside of carnegie dorm night,twilight,inside,16,Dormitory
+inside of dorm hallway night,twilight,inside,17,Dormitory
+inside of room 316 night,twilight,inside,18,Hotel Room
+inside of dorm hallway night: later,twilight,inside,19,Dormitory
+inside of dorm room night,twilight,inside,20,Dormitory
+outside of campus quad day,day,outside,21,University/College campus
+inside of dorm room day,day,inside,22,Dormitory
+inside of bookstore day,day,inside,23,Bookstore
+inside of bookstore later,unknown,inside,24,Bookstore
+inside of dorm room night,twilight,inside,25,Dormitory
+outside of cafeteria dusk,unknown,outside,26,Restaurant
+inside of cafeteria dusk,unknown,inside,27,Restaurant
+outside of design building day,day,outside,28,Building
+inside of hallway day,day,inside,29,Hallway
+inside of day hallway later,day,inside,30,Hallway
+inside of classroom day,day,inside,31,School
+inside of dorm room day,day,inside,32,Dormitory
+inside of club night,twilight,inside,33,Nightclub
+inside of club dance floor later,unknown,inside,34,Nightclub
+inside of club bathroom,unknown,inside,35,Nightclub
+outside of club night,twilight,outside,36,Nightclub
+inside of dorm room night,twilight,inside,37,Dormitory
+outside of gas station night,twilight,outside,38,Gas Station
+inside of outside of diner night,twilight,both,39,Restaurant
+inside of diner night,twilight,inside,40,Restaurant
+inside of moca day,day,inside,41,Museum
+inside of moca later,unknown,inside,42,Museum
+outside of sidewalk day,day,outside,43,Street
+inside of dorm room day,day,inside,44,Dormitory
+outside of city street dusk,unknown,outside,45,Street
+inside of dorm room night,twilight,inside,46,Dormitory
+outside of carnegie dorm night,twilight,outside,47,Dormitory
+inside of dorm room night,twilight,inside,48,Dormitory
+outside of campus quads morning,day,outside,49,University campus
+inside of campus coffee shop day,day,inside,50,Coffee Shop
+inside of dorm hallway day,day,inside,51,Dormitory
+inside of dorm room day,day,inside,52,Dormitory
+inside of art gallery dusk,unknown,inside,53,Art Gallery
+outside of college dorm night,twilight,outside,54,University accommodation
+inside of dorm hallway night,twilight,inside,55,Dormitory
+inside of dorm room later,unknown,inside,56,Dormitory
+inside of dorm room barely sunrise,unknown,inside,57,Dormitory
+inside of dorm hallway twilight,twilight,inside,58,Dormitory
+outside of quads day,day,outside,59,Gymnasium
+inside of classroom studio,unknown,inside,60,School / Studio
+outside of building day,day,outside,61,Building
+outside of quads later,unknown,outside,62,Gym
+outside of street corner day,day,outside,63,Street
+inside of studio hallway,unknown,inside,64,Recording Studio
+inside of studio backstage later,unknown,inside,65,Studio
+inside of library dusk,unknown,inside,66,Library
+inside of dorm hallway night,twilight,inside,67,Dormitory
+inside of dorm bathroom night,twilight,inside,68,Dormitory
+inside of frat house living room night,twilight,inside,69,Living room
+inside of dorm room night,twilight,inside,70,Dormitory
+inside of dorm lounge night,twilight,inside,71,Dormitory
+outside of quads morning,day,outside,72,Gym or Fitness Center
+inside of library day,day,inside,73,Library
+inside of library,unknown,inside,74,Library
+inside of library,unknown,inside,75,Library
+inside of library periodical racks,unknown,inside,76,Library
+inside of library stacks later,unknown,inside,77,Library
+outside of park night,twilight,outside,78,Park
+outside of park playground night,twilight,outside,79,Park
+inside of dorm room night,twilight,inside,80,Dormitory
+inside of psi u. frat house hallway night,twilight,inside,81,Fraternity House
+inside of frat house room twilight,twilight,inside,82,Student Residence
+inside of frat house hallway twilight,twilight,inside,83,University Campus
+inside of dorm room twilight,twilight,inside,84,Dormitory
+inside of frat house room,unknown,inside,85,University Campus
+inside of dorm room twilight,twilight,inside,86,Dormitory
+outside of carnegie dorm morning,day,outside,87,Dormitory
+inside of dorm room day,day,inside,88,Dormitory
+inside of hallway,unknown,inside,89,Corridor
+inside of irene's apartment night,twilight,inside,90,Apartment
+inside of dorm room night later,twilight,inside,91,Dormitory
+outside of quads day,day,outside,92,Gym
+inside of campus coffee shop later,unknown,inside,93,Coffee Shop
+inside of dorm room dusk,unknown,inside,94,Dormitory
+inside of dorm basement hallway dusk,unknown,inside,95,Dormitory
+inside of laundry room later,unknown,inside,96,Laundry Area
+inside of dorm room later,unknown,inside,97,Dormitory
+inside of cafeteria morning,day,inside,98,Restaurant
+inside of classroom day,day,inside,99,School
+inside of office day,day,inside,100,Workplace
+inside of library day,day,inside,101,LIBRARY
+inside of office night,twilight,inside,102,Office
+inside of office night,twilight,inside,103,Office
+inside of frat house room,unknown,inside,104,University Campus
+outside of quads day,day,outside,105,Gym
+inside of hallway,unknown,inside,106,Corridor
+inside of classroom,unknown,inside,107,school
+inside of cafeteria day,day,inside,108,Restaurant
+inside of campus coffee shop night,twilight,inside,109,Coffee Shop
+inside of campus coffee shop later,unknown,inside,110,Coffee Shop
+inside of dorm room day,day,inside,111,Dormitory
+inside of dorm room day,day,inside,112,Dormitory
+inside of dorm room day,day,inside,113,Dormitory
+outside of street dorm day,day,outside,114,Road
+inside of car driving: later,unknown,inside,115,Automobile
+outside of gated mansion dusk,unknown,outside,116,House
+outside of sidewalk dusk,unknown,outside,117,Street
+inside of foyer dusk,unknown,inside,118,Lobby
+inside of rebecca's room dusk,unknown,inside,119,Bedroom
+inside of dining room night,twilight,inside,120,Dining Room
+inside of rebecca's room night,twilight,inside,121,Bedroom
+inside of house night,twilight,inside,122,Residential Building
+inside of rebecca's room night,twilight,inside,123,Bedroom
+inside of staircase night,twilight,inside,124,Stairs
+inside of kitchen night,twilight,inside,125,Kitchen
+inside of front door day,day,inside,126,Entrance
+outside of main street day,day,outside,127,Street
+inside of coffee shop day,day,inside,128,Coffee Shop
+inside of car day: driving,day,inside,129,Vehicle
+outside of campus quad day,day,outside,130,University campus
+outside of inside of dorm day,day,both,131,Dormitory
+inside of dorm hallway day,day,inside,132,Dormitory
+inside of dorm room day,day,inside,133,Dormitory
+inside of dorm hallway,unknown,inside,134,Dormitory
+inside of dorm room,unknown,inside,135,Dormitory
+inside of subway train night,twilight,inside,136,Train
+inside of dorm room night,twilight,inside,137,Dormitory
+inside of night club night,twilight,inside,138,Nightclub
+inside of night club bathroom night,twilight,inside,139,Night Club
+inside of irene's bedroom morning,day,inside,140,Bedroom
+inside of irene's bedroom morning,day,inside,141,Bedroom
+outside of city street morning,day,outside,142,Street
+inside of lobby morning,day,inside,143,Lobby
+outside of street morning,day,outside,144,Street
+inside of dorm hallway morning,day,inside,145,Dormitory
+inside of dorm room morning,day,inside,146,Dormitory
+inside of tattoo parlor day,day,inside,147,Tattoo Shop
+inside of tattoo parlor later,unknown,inside,148,Tattoo Shop
+inside of dorm lobby day,day,inside,149,Dormitory
+outside of street day,day,outside,150,Road
+inside of dorm room day,day,inside,151,Dormitory
+inside of frat house room day,day,inside,152,University/College Campus
+outside of campus quads day,day,outside,153,University Campus
+outside of campus coffee shop night,twilight,outside,154,Coffee Shop
+outside of frat house night,twilight,outside,155,College/University
+inside of frat house entrance night,twilight,inside,156,Fraternity House
+inside of art studio night,twilight,inside,157,Art Gallery
+inside of frat house room,unknown,inside,158,Dormitory
+inside of frat house hallway,unknown,inside,159,Fraternity House
+inside of frat house room night,twilight,inside,160,University Campus
+outside of dorm evening night,twilight,outside,161,Dormitory
+inside of dorm room dusk,unknown,inside,162,Dormitory
+inside of dorm hallway night,twilight,inside,163,Dormitory
+inside of dorm room night,twilight,inside,164,Dormitory
+inside of dorm hallway night,twilight,inside,165,Dormitory
+inside of dorm room night,twilight,inside,166,Dormitory
+inside of dorm shower night,twilight,inside,167,Dormitory
+inside of dorm bathroom night,twilight,inside,168,Dormitory
+inside of dorm room night,twilight,inside,169,Dormitory
+inside of library night,twilight,inside,170,Library
+inside of frat house night,twilight,inside,171,Fraternity House
+inside of hotel hallway night,twilight,inside,172,Hotel
+inside of hotel room night,twilight,inside,173,Hotel
+inside of library night,twilight,inside,174,Library
+inside of frathouse night,twilight,inside,175,College Dormitory
+inside of frat bedroom night,twilight,inside,176,Dorm Room
+outside of irene's apartment night,twilight,outside,177,Apartment
+inside of irene's elevator,unknown,inside,178,Elevator
+inside of hallway doorway,unknown,inside,179,Corridor / Entrance
+inside of irene's apartment night,twilight,inside,180,Apartment
+inside of bedroom,unknown,inside,181,Room
+inside of living room night,twilight,inside,182,Living room
+inside of bedroom,unknown,inside,183,Room
+inside of living room,unknown,inside,184,Living room
+inside of bedroom night,twilight,inside,185,Room
+outside of building ledge night,twilight,outside,186,Building
+inside of living room night,twilight,inside,187,Living room
+inside of bedroom,unknown,inside,188,Room
+outside of building ledge night,twilight,outside,189,Building
+inside of bedroom night,twilight,inside,190,Room
+outside of building ledge twilight,twilight,outside,191,Building
+outside of building day,day,outside,192,Building
+inside of dorm room,unknown,inside,193,Dormitory
+inside of dorm hallway,unknown,inside,194,Dormitory
+inside of dorm room,unknown,inside,195,Dormitory

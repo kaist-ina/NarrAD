@@ -1,0 +1,110 @@
+text,time,inout,scene,location
+outside of pico blvd. groundlevel day,day,outside,0,Boulevard
+inside of 1st sergeant's office camp pendleton day,day,inside,1,Military Base
+outside of officer's golf course camp pendleton night,twilight,outside,2,Golf Course / Military Base
+outside of golf course later,unknown,outside,3,Golf Course
+inside of bedroom offbase apartment san clemente morning,day,inside,4,Bedroom / Office
+outside of driveway offbase apartment later,unknown,outside,5,Parking Area
+outside of training course morning,day,outside,6,Education Center
+inside of flower shop day,day,inside,7,Flower Shop
+inside of camp pendleton psychiatrist's office day,day,inside,8,Military Base / Psychiatrist's Office
+"outside of pacific ocean red beach, camp pendleton",unknown,outside,9,Ocean
+outside of training course day,day,outside,10,Education Center
+inside of humvee minutes later,unknown,inside,11,Vehicle
+outside of camp pendleton minutes later,unknown,outside,12,Military Base
+inside of humvee day,day,inside,13,Vehicle
+inside of dorm room bachelor enlisted quarters day,day,inside,14,Dormitory
+inside of hallway base command building day,day,inside,15,Military Base
+inside of armory day,day,inside,16,Military Base
+inside of briefing room camp pendleton later,unknown,inside,17,Military Base
+inside of armory later,unknown,inside,18,Military Base
+inside of hallway command building,unknown,inside,19,Military Building
+inside of briefing room camp pendleton day,day,inside,20,Military Base
+outside of camp pendleton air field minutes later,unknown,outside,21,Airfield
+inside of ch46 transport helicopter later,unknown,inside,22,Switzerland
+inside of ch46 transport helicopter later,unknown,inside,23,Country
+outside of santa monica airportforward operating base later,unknown,outside,24,Airport
+outside of street later,unknown,outside,25,Road
+outside of 10th street later,unknown,outside,26,Street
+outside of back yard of different house day,day,outside,27,backyard
+inside of house day,day,inside,28,Residential building
+inside of back yard of different house,unknown,inside,29,Backyard
+inside of dark garage day,day,inside,30,Garage
+outside of alley day,day,outside,31,Street
+inside of garage day,day,inside,32,Garage
+outside of street day,day,outside,33,Road
+inside of garage day,day,inside,34,Garage
+outside of back yard of house day,day,outside,35,Backyard
+outside of side street day,day,outside,36,Street
+outside of street later,unknown,outside,37,Road
+outside of park day,day,outside,38,Park
+inside of lobby of community center day,day,inside,39,Community Center
+outside of athletic field,unknown,outside,40,Sports Ground
+outside of community center day,day,outside,41,Community Center
+inside of community center lobby day,day,inside,42,Community Center
+inside of community center lobby minutes later,unknown,inside,43,Community Center
+outside of community center back door day,day,outside,44,Community Center
+inside of community center lobby day,day,inside,45,Community Center
+outside of community center rooftop,unknown,outside,46,Rooftop
+inside of side room community center later,unknown,inside,47,Community Center Room
+outside of community center rooftop minutes later,unknown,outside,48,Rooftop
+inside of outside of community center day,day,both,49,Community Center
+outside of community center rooftop day,day,outside,50,Rooftop
+inside of side room later,unknown,inside,51,Room
+outside of street day,day,outside,52,Road
+outside of roof day,day,outside,53,Roof
+inside of community center side room day,day,inside,54,Community Center
+inside of hallway community center seconds later,unknown,inside,55,Corridor / Public Building
+inside of  outside of bus day,day,both,56,Bus Station
+inside of lobby day,day,inside,57,Lobby
+inside of bus day,day,inside,58,Bus station
+inside of community center lobby day,day,inside,59,Community Center
+"outside of bus (moving) side streets, santa monica",unknown,outside,60,Bus
+inside of bus day,day,inside,61,Bus station
+outside of street day,day,outside,62,Road
+inside of bus (stopped) day,day,inside,63,Bus Stop
+outside of street day,day,outside,64,Road
+inside of bus day,day,inside,65,Bus station
+outside of street by gas station day,day,outside,66,Street
+inside of bus (stopped) day,day,inside,67,Bus Stop
+outside of street day,day,outside,68,Road
+inside of bus (stopped) day,day,inside,69,Bus Stop
+outside of street by freeway minutes later,unknown,outside,70,Street
+inside of bus (moving) 10 freeway day,day,inside,71,Bus
+outside of bus roof,unknown,outside,72,Bus
+outside of 10 freeway day,day,outside,73,Highway
+outside of offramp 10 freeway,unknown,outside,74,Office
+inside of  outside of bus 10 freeway,unknown,both,75,Bus station
+outside of bus roof,unknown,outside,76,Bus
+outside of bus roof,unknown,outside,77,Bus
+outside of freeway by bus,unknown,outside,78,Highway
+outside of bus,unknown,outside,79,Bus station
+outside of offramp. lower street day,day,outside,80,OFF
+outside of street day,day,outside,81,Road
+inside of big 5 sporting goods store day,day,inside,82,Sporting Goods Store
+outside of alley day,day,outside,83,Street
+outside of street later,unknown,outside,84,Road
+outside of street later,unknown,outside,85,Road
+inside of deserted fire station day,day,inside,86,Fire Station
+outside of santa monica airport runway minutes later,unknown,outside,87,Airport
+inside of fire station day,day,inside,88,Fire Station
+inside of control tower day,day,inside,89,Airport
+inside of firehouse later,unknown,inside,90,Fire Station
+outside of control tower seconds later,unknown,outside,91,Airport
+inside of lav day,day,inside,92,Lounge Bar
+"outside of street, near santa monica airport late night",twilight,outside,93,Street near an airport
+inside of lav twilight,twilight,inside,94,Bar or Restaurant
+outside of street later night,twilight,outside,95,Road
+inside of lav twilight,twilight,inside,96,Airport
+inside of evac helicopter twilight,twilight,inside,97,Helicopter
+outside of building rooftop twilight,twilight,outside,98,Rooftop
+outside of street twilight,twilight,outside,99,Street
+inside of lav twilight,twilight,inside,100,Restaurant
+outside of street later,unknown,outside,101,Road
+outside of street twilight,twilight,outside,102,Road
+inside of subway entrance twilight,twilight,inside,103,Train Station
+inside of underground service hallway twilight,twilight,inside,104,Underground hallway
+inside of different part of underground service tunnel,unknown,inside,105,Underground Tunnel
+inside of subway platform twilight,twilight,inside,106,Train station
+outside of downtown los angeles street twilight,twilight,outside,107,Street in Downtown Los Angeles
+inside of medevac helicopter,unknown,inside,108,Helicopter

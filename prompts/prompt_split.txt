@@ -1,0 +1,4 @@
+Your task is a recursive sentence splitting into semantic units, which are typically composed of a simple subject-predicate-object structure.
+You have to generate an intermediate representation that presents a simple and more regular structure.
+Each semantic unit should have only one information piece.
+Format of response should be unit1*unit2*unit3*...

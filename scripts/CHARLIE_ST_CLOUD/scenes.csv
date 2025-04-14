@@ -1,0 +1,118 @@
+text,time,inout,scene,location
+outside of waterside cemetery day,day,outside,0,Cemetery
+outside of driftwood diner early morning,day,outside,1,Restaurant
+outside of a little bake shop on the pier day,day,outside,2,Bakery
+outside of movie theater evening,unknown,outside,3,Movie Theater
+inside of maddie's bar night,twilight,inside,4,Bar
+outside of old north church day,day,outside,5,Church
+inside of high school auditorium day,day,inside,6,Auditorium
+outside of st. cloud home day,day,outside,7,House
+outside of the harbor afternoon,unknown,outside,8,Port
+outside of on the water day charlie and sam's sailboat,day,outside,9,Lake/Ocean/River
+inside of st. cloud house evening,unknown,inside,10,House
+outside of house next door day,day,outside,11,Neighbor's house
+outside of fenway park night,twilight,outside,12,Stadium
+inside of outside of the buick night,twilight,both,13,Car Dealership
+outside of road night,twilight,outside,14,Road
+outside of a dark place night,twilight,outside,15,Dark Room
+inside of speeding ambulance night,twilight,inside,16,Vehicle
+outside of waterside cemetery late afternoon,unknown,outside,17,Cemetery
+outside of woods sunset,day,outside,18,Forest
+outside of waterside cemetery morning,day,outside,19,Cemetery
+outside of cemetery grounds evening,unknown,outside,20,Cemetery
+outside of cemetery front gate evening,unknown,outside,21,Cemetery
+outside of caretaker's cottage evening,unknown,outside,22,Cottage
+inside of cottage living room evening,unknown,inside,23,Cottage
+outside of the cottage cont,unknown,outside,24,House
+outside of the glade in the woods evening,unknown,outside,25,Forest
+outside of the glade later,unknown,outside,26,Park
+inside of charlie's cottage night,twilight,inside,27,Cottage
+outside of marblehead dock morning,day,outside,28,Dock
+inside of marblehead general store day,day,inside,29,General Store
+outside of charlie's pickup truck day,day,outside,30,Vehicle
+inside of maddie's cont.,unknown,inside,31,Restaurant
+inside of maddie's later,unknown,inside,32,Restaurant
+outside of cemetery. edge of woods twilight,twilight,outside,33,"Cemetery, Forest Edge"
+outside of the cemetery woods late afternoon,unknown,outside,34,Cemetery
+outside of the glade twilight,twilight,outside,35,Park
+outside of the glade later,unknown,outside,36,Park
+inside of charlie's bedroom night,twilight,inside,37,Bedroom
+outside of marblehead street night,twilight,outside,38,Street
+outside of marblehead foreshore night,twilight,outside,39,Beach
+outside of querencia day,day,outside,40,Town
+inside of cockpit day,day,inside,41,Airplane
+outside of main deck cont.,unknown,outside,42,Boat/Ships
+outside of the glade sunset,day,outside,43,Park
+outside of querenciaocean night,twilight,outside,44,Ocean
+inside of cabin. querencia night,twilight,inside,45,Cabin. Retreat.
+inside of carroll sails night,twilight,inside,46,Boat Rental Service
+inside of cabin. querencia night,twilight,inside,47,"Cabin, Residence"
+inside of carroll sails night,twilight,inside,48,Boat Rental Service
+inside of cabin. querencia night,twilight,inside,49,Cabin
+outside of querenciaocean night,twilight,outside,50,Ocean
+inside of cabin. querencia night,twilight,inside,51,Cabin. Residence.
+outside of querenciaocean night,twilight,outside,52,Ocean
+outside of the cemetery late afternoon,unknown,outside,53,Graveyard
+inside of charlie's cottage late afternoon,unknown,inside,54,House
+outside of charlie's cottage twilight,twilight,outside,55,Cottage
+outside of clearing twilight,twilight,outside,56,Forest
+outside of the glade later,unknown,outside,57,Park
+inside of charlie's house night,twilight,inside,58,house
+inside of charlie's kitchen night,twilight,inside,59,Restaurant
+inside of living room night,twilight,inside,60,Living Room
+inside of charlie's bedroom dawn,day,inside,61,Bedroom
+outside of the cemetery woods dawn,day,outside,62,Forest
+outside of the water dawn,day,outside,63,Body of Water
+outside of the beach day,day,outside,64,Beach
+outside of the cemetery day,day,outside,65,Graveyard
+inside of marblehead nursing home day,day,inside,66,Nursing Home
+outside of the cemetery beach late afternoon,unknown,outside,67,Beach
+outside of charlie's cottage sunset,day,outside,68,Cottage
+outside of forest short time later,unknown,outside,69,Forest
+outside of tess's mother's house night,twilight,outside,70,house
+inside of charlie's house night,twilight,inside,71,residential house
+outside of charlie's cottage dawn,day,outside,72,Cottage
+inside of tess's mom's house day,day,inside,73,house
+inside of driftwood cafe day,day,inside,74,Cafe
+outside of along the water,unknown,outside,75,Beach/River/Lake/Shore
+inside of the cafe day,day,inside,76,Cafe
+outside of along the water day,day,outside,77,Riverbank
+inside of the driftwood day,day,inside,78,Bar or Restaurant
+outside of marblehead mainstreet day,day,outside,79,Main Street
+inside of driftwood day,day,inside,80,Beach
+outside of marblehead mainstreet day,day,outside,81,Main Street
+inside of the driftwood day,day,inside,82,Bar or Restaurant
+outside of marblehead main street day,day,outside,83,Main Street
+inside of the driftwood day,day,inside,84,Bar or Restaurant
+outside of marblehead street day,day,outside,85,Street
+inside of charlie's cottage day,day,inside,86,Cottage
+inside of charlie's cottage late afternoon,unknown,inside,87,Cottage
+outside of cemetery sunset,day,outside,88,Cemetery
+outside of the glade sunset,day,outside,89,Park
+inside of charlie's cottage night,twilight,inside,90,Cottage
+outside of marblehead dock night,twilight,outside,91,Dock
+outside of tink's boat night,twilight,outside,92,Boat
+outside of inside of tink's boat dawn,day,both,93,Boat
+outside of oceantink's boat day,day,outside,94,Ocean
+inside of the boat cabin later,unknown,inside,95,Boat
+outside of the deck late afternoon,unknown,outside,96,Patio
+outside of the glade sunset,day,outside,97,Park
+outside of various shots around the glade sunset,day,outside,98,Park
+inside of querencia cabin day,day,inside,99,Cabin
+outside of marblehead waterfront morning,day,outside,100,Waterfront
+inside of mary alley hospital day,day,inside,101,Hospital
+inside of another hospital corridor day,day,inside,102,Hospital
+inside of tess's hospital room evening,unknown,inside,103,Hospital
+outside of marblehead street day,day,outside,104,Street
+inside of caretaker's cottage late afternoon,unknown,inside,105,House
+outside of caretaker's cottage short time later,unknown,outside,106,Cottage
+outside of the glade sunset,day,outside,107,Park
+outside of movie theater evening,unknown,outside,108,Movie Theater
+inside of maddie's bar night,twilight,inside,109,Bar
+outside of the old north church day,day,outside,110,Church
+outside of a modest house day,day,outside,111,House
+outside of mary alley hospital day,day,outside,112,Hospital
+inside of hospital room day,day,inside,113,Hospital
+outside of house on cloutman's lane day,day,outside,114,House
+outside of waterside cemetery day,day,outside,115,Cemetery
+outside of the harbor day,day,outside,116,Port

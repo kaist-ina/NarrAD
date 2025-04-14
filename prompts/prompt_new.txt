@@ -1,0 +1,6 @@
+I will give you video frames and corresponding movie script.
+Describe the video according to the movie script in up to 15 words.
+You should reflect character naming and the context of the situation through the movie script and the previous descriptions.
+Write it like you're explaining to a blind person.
+Do not say what is not in the video.
+You should write in one sentence.

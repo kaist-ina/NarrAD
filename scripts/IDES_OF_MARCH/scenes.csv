@@ -1,0 +1,88 @@
+text,time,inout,scene,location
+inside of miami university oxford ohio auditorium day,day,inside,0,University
+outside of miami university oxford ohio day,day,outside,1,University
+outside of middle america,unknown,outside,2,Central United States
+outside of suburban street,unknown,outside,3,Street
+outside of city intersection,unknown,both,4,Crossroads
+outside of hardware store,unknown,outside,5,Store
+outside of miami university oxford ohio afternoon,unknown,outside,6,University
+inside of miami university rapid response room day,day,inside,7,University
+inside of miami university auditorium day,day,inside,8,University
+inside of miami university backstage day,day,inside,9,University
+inside of cincinnati ramada inn the bar night,twilight,inside,10,Hotel
+outside of ramada inn sidewalk later,unknown,outside,11,Hotel Sidewalk
+outside of morris headquarters cincinnati next day,day,outside,12,Office Building
+inside of morris headquarters cincinnati next day,day,both,13,Office Building
+inside of senator thompson's house charlotte n.c. day,day,inside,14,Residential House
+inside of morris headquarters cincinnati day day,day,inside,15,Office Building
+inside of stephen's office inside of duffy's office day,day,inside,16,Office
+inside of stephen's rental car outside head first sports bar later,unknown,inside,17,Car Rental Place
+inside of head first sports bar cincinnati later,unknown,inside,18,Bar
+inside of hotel room cincinnati night,twilight,inside,19,Hotel
+inside of hotel conference room minutes later,unknown,inside,20,Hotel
+inside of motel kentucky night,twilight,inside,21,Motel
+outside of millennium hotel cincinnati minutes later,unknown,outside,22,Hotel
+inside of millennium hotel stephens's room early morning,day,inside,23,Hotel
+outside of tarmac lunken airfield cincinnati later,unknown,outside,24,Airport
+inside of private jet,unknown,inside,25,Airplane
+inside of kent state university ohio later,unknown,inside,26,University
+inside of kent state university back stage day,day,inside,27,University
+inside of kent state university stage day,day,inside,28,University
+inside of kent state university back stage day,day,inside,29,University
+inside of kent state university stage day gov. morris,day,inside,30,University
+inside of kent state university back stage day,day,inside,31,University
+inside of kent state university lobby,unknown,inside,32,University Lobby
+inside of kent state university rehearsal room,unknown,inside,33,University
+inside of morris headquarters cincinnati late afternoon,unknown,inside,34,Office Building
+outside of governors suv night,twilight,outside,35,Car
+inside of governors suv night,twilight,inside,36,Car
+inside of performing arts building dayton community college a bit later,day,inside,37,Theater
+inside of performing arts building lobby after,unknown,inside,38,Lobby
+outside of campaign bus night,twilight,outside,39,Bus
+inside of campaign bus night,twilight,inside,40,Bus
+inside of millennium hotel steven's room night,twilight,inside,41,Hotel
+inside of millennium hotel steven's room night later,twilight,inside,42,Hotel
+outside of street cincinnati next day morning,day,outside,43,Street
+inside of morris headquarters morning day,day,inside,44,Office Building
+inside of morris headquarters later,unknown,inside,45,Office Building
+inside of stock yards bank cincinnati later,unknown,inside,46,Bank
+outside of stock yards bank steps day,day,outside,47,Bank steps
+inside of sky walk cincinatti minutes later,unknown,inside,48,Observation Deck
+outside of fountain square cinci inside of memorial hall a few minutes later,unknown,both,49,Square
+inside of morris headquarters stairwell afternoon,unknown,inside,50,Office Building
+inside of stephen's hotel room later that night,twilight,inside,51,Hotel Room
+outside of molly's motel a bit later,unknown,outside,52,Motel
+inside of outside of stephens car roebling suspension bridge a bit later,unknown,both,53,Car
+inside of stephen's car day a few minutes later,day,inside,54,Car
+inside of clinic waiting room day,day,inside,55,Healthcare facility
+inside of millennium hotel paul's room day,day,inside,56,Hotel
+inside of clinic day later,day,inside,57,Healthcare Facility
+outside of stephen's rental car afternoon,unknown,outside,58,Car Rental Service
+outside of clinic afternoon,unknown,outside,59,Hospital
+outside of cafe near clinic later,unknown,outside,60,Cafe near Healthcare Facility
+outside of clinic street night,twilight,outside,61,Street
+outside of molly's motel kentucky night,twilight,outside,62,Motel
+inside of molly's motel kentucky night,twilight,inside,63,Motel
+inside of pullman headquarters cincinnati night,twilight,inside,64,Office Building
+inside of molly's motel kentucky night,twilight,inside,65,Motel
+outside of molly's motel night seconds later,twilight,outside,66,Motel
+inside of morris headquarters next morning,day,both,67,Office Building
+outside of riverside park kentucky day,day,outside,68,Park
+inside of press room cincinnati next morning,day,both,69,Newsroom
+outside of restaurant cincinnati that night,twilight,outside,70,Restaurant
+inside of restaurant cincinnati twilight,twilight,inside,71,Restaurant
+inside of restaurant kitchen twilight,twilight,inside,72,Restaurant
+inside of barber shop early morning,day,inside,73,Salon
+outside of street outside barber shop,unknown,outside,74,Street
+outside of nicer hotel cincinnati next day establishing,day,outside,75,Hotel
+inside of nicer hotel room cincinnati next day,day,both,76,Hotel Room
+outside of wheeling west virginia day day,day,outside,77,City
+inside of church wheeling west virginia,unknown,inside,78,Church
+outside of church wheeling west virginia later,unknown,outside,79,Church
+inside of xavier university cincinnati day,day,inside,80,University
+outside of xavier university cincinnati,unknown,outside,81,University
+inside of xavier hallways & reception room day,day,inside,82,School Building
+inside of xavier university hallway & staging room,unknown,inside,83,University
+outside of xavier university quad day,day,outside,84,University
+inside of xavier university gym corridor day,day,inside,85,University Gym
+inside of xavier university gymnasium a few minutes later,unknown,inside,86,University
